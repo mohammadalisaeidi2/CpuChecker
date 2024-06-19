@@ -1,0 +1,1 @@
+# Cpu checker in bash
